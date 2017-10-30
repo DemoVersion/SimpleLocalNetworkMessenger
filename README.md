@@ -1,4 +1,4 @@
- SimpleLocalNetworkMessenger
+SimpleLocalNetworkMessenger
 =============================
 A Simple Local Area Network Messenger Written in Java
 ------------------------------
@@ -11,6 +11,7 @@ charge, but notice that the data transferred by the software is not
 securely transmitted and the passwords are kept on the server in plain
 text. My goal of publishing this project here is to provide a simple 
 and practical example of socket programming in java.
+
 License
 ==============================
 Copyright (C) 2013 Hesam Haddad
